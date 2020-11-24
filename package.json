@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "main": "index.js",
     "scripts": {
-        "test": "jest --coverage --watchAll"
+        "test": "jest --coverage --watch"
     },
     "keywords": [
         "typescript",
